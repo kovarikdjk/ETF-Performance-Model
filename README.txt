@@ -9,6 +9,8 @@ To run this program:
 
 
 NOTES:
-***If you are running this and keep getting "waiting for API servers..." on the first run, this is due to a request limit from the server so, consider getting your own key at https://www.alphavantage.co/support/#api-key and changing the key in the Quotes.java file and recompiling using Apache Maven.
+***If you are running this and keep getting "waiting for API servers..." on the first run, this is due to a request 
+limit from the server so, consider getting your own key at https://www.alphavantage.co/support/#api-key and changing 
+the key in the Quotes.java file and recompiling using Apache Maven.***
 
 
