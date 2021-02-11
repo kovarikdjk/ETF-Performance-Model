@@ -1,0 +1,7 @@
+Three Main Passive Funds:05/09/2020:SPY,QQQ,DIA,;
+Popular Tech Stocks:01/02/2020:AAPL,TSLA,AMZN,TWTR,;
+Consumer Staples Stocks:01/02/2020:CPB,TSN,SYY,JJSF,;
+Finance Stocks:01/02/2020:BRK.B,JPM,GS,BLK,;
+Reccession Winner:02/19/2020:SPXS,UVXY,;
+Metals:05/21/2020:GLD,SLV,REMX,;
+grandpas:06/30/2020:TSLA,AEB,;
