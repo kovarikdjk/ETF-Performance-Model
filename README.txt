@@ -9,3 +9,8 @@ To run this program:
 
 3.	Double-click the Comand Script called "Run Me" in the "target" folder
 
+
+NOTES:
+***If you are running this and keep getting "waiting for Alpha Vantage" on the first run, consider getting your own key at https://www.alphavantage.co/support/#api-key and changing the key in the Quotes.java file and recompiling using Apache Maven.
+
+
